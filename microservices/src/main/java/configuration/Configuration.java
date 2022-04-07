@@ -21,6 +21,14 @@ public class Configuration {
         return maximum;
     }
 
+    @Override
+    public String toString() {
+        return "Configuration{" +
+                "minimum=" + minimum +
+                ", maximum=" + maximum +
+                '}';
+    }
+
     public void setMaximum(int maximum) {
         this.maximum = maximum;
     }
