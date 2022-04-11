@@ -1,4 +1,4 @@
-package beans;
+package com.microservices.microservices.beans;
 
 public class Limits {
     private int minimum;

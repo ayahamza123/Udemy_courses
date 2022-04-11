@@ -1,4 +1,4 @@
-package configuration;
+package com.microservices.microservices.configuration;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
